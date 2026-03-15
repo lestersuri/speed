@@ -1,0 +1,5 @@
+{
+  "name": "Minimalist Speedometer",
+  "description": "A simple and minimalist speedometer app that measures your speed in km/h or mph.",
+  "requestFramePermissions": ["geolocation"]
+}
